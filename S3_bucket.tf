@@ -16,7 +16,7 @@ resource "aws_s3_access_point" "access_point_test" {
 }
 
 ## Object lambda access Point
-resource "aws_s3control_object_lambda_access_point" "example" {
+resource "aws_s3control_object_lambda_access_point" "refund" {
   name = "example"
 
   configuration {
