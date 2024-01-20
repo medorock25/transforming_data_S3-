@@ -5,7 +5,7 @@ In this tutorial we have S3 bucket which has transaction credit card data, and w
 
 # The steps to achive the goal:
 
-1: S3 bucket 
+*1: S3 bucket 
 2: Add a sample of the data as a file to the S3 bucket 
 3: Create an S3 access point 
 4: Create a Lambda function 
