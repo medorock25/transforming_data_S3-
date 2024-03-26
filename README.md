@@ -12,5 +12,3 @@ In this tutorial we have S3 bucket which has transaction credit card data, and w
 *5: Configure an IAM policy for your Lambda function's execution role 
 "*"6: Create an S3 Object Lambda Access Point 
 "*"7: View the transformed data
-
-https://www.youtube.com/watch?v=-qObP4cpVYU&t=0s
